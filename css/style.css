@@ -1,4 +1,4 @@
-/*Specification*/
+
 * {
   margin: 0;
   padding: 0;
@@ -43,8 +43,6 @@ a {
   background-color: #29adff;
   display: block;
   margin: 0 auto;
-}
-/*Header section*/
 }
 .header {
   width: 100%;
@@ -160,7 +158,6 @@ a {
   font-weight: bold;
 }
 
-/*About section*/
 .about {
   background-color: #fff;
 }
@@ -219,7 +216,7 @@ a {
   margin-right: 5px;
   color: #29adff;
 }
-/*team section*/
+
 .team {
   background-color: #17161e;
 }
@@ -261,7 +258,7 @@ a {
   font-weight: 400;
   margin-bottom: 130px;
 }
-/*Services section*/
+
 .services__text {
   width: 70%;
   margin: 0 auto;
@@ -322,7 +319,7 @@ a {
   color: #222;
   margin-top: 15px;
 }
-/* services section*/
+
 .clients {
   background-color: #17161e;
 }
@@ -363,7 +360,7 @@ a {
   margin: auto;
 }
 
-/*Work section*/
+
 .work {
 }
 .work__text {
@@ -387,7 +384,7 @@ a {
 .work__logo img {
   width: 100%;
 }
-/*testimonials section*/
+
 .testimonials {
   background-color: #17161e;
 }
@@ -420,7 +417,7 @@ a {
   font-size: 18px;
   
 }
-/*contact section*/
+
 .contact {
 }
 .contact__text {
@@ -498,7 +495,7 @@ a {
   background-color: #6dc9ff;
   transition: all 0.5s ease;
 }
-/*footer section*/
+
 .footer {
   background-color: #17161e;
   border-bottom: 1px solid #3f3f3f;
