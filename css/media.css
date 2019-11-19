@@ -91,6 +91,7 @@
   }
   .about__title {
     font-size: 34px;
+    flex-direction: column;
   }
   .contact__form {
     width: 100%;
